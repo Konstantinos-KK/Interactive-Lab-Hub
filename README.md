@@ -7,4 +7,4 @@ Completed Labs for Konstantinos Karras Kallidromitis
 3. [Konstantinos KK's Lab 3](https://github.com/Konstantinos-KK/IDD-Fa19-Lab3)
 4. [Konstantinos KK's Lab 4](https://github.com/Konstantinos-KK/IDD-Fa19-Lab4)
 5. [Konstantinos KK's Lab 5](https://github.com/Konstantinos-KK/IDD-Fa19-Lab5)
-6. [Konstantinos KK's Lab 6]
+6. [Konstantinos KK's Lab 6](https://github.com/Konstantinos-KK/IDD-Fa19-Lab6)
