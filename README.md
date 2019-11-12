@@ -11,4 +11,4 @@ Completed Labs for Konstantinos Karras Kallidromitis
 7. [Konstantinos KK's Lab 7](https://github.com/Konstantinos-KK/IDD-Fa19-Lab7)
 
 # Final Project
-[Boogie Woogie](https://github.com/Rafajel29/IDD-Final-Project)
+[Boogie Woogie 123](https://github.com/Rafajel29/IDD-Final-Project)
